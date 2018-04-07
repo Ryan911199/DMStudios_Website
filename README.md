@@ -1,2 +1,2 @@
-# DMStudios_Website
-this is the DMStudios wesite
+# O-Quinn_Frim_Website
+this is a DMStudio project
